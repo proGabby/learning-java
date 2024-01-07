@@ -3,7 +3,7 @@ import java.util.Scanner;
 class CarlysCattering {
 
     public static void main(String[] arg) {
-
+        eventManager();
     }
 
     public static void displayCarlyMotto() {
